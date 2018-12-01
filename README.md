@@ -11,7 +11,7 @@
 ![Flowchart](https://github.com/fawwazdzakwan/praktikum6/blob/master/Flowchart1.png)
 
 **Screenshoot**
-![Screenshoot](https://raw.githubusercontent.com/tedyajadeh/praktikum6/master/Screenshot1.png)
+![Screenshoot](https://github.com/fawwazdzakwan/praktikum6/blob/master/Screenshot1.png)
 
 **code program lengkap**
 '''c++
