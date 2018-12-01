@@ -8,7 +8,7 @@
 3. Membandingkan nilai variable return a*b, a/b, a+b, a-b
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/tedyajadeh/praktikum6/master/Flowchart1.png)
+![Flowchart](https://github.com/fawwazdzakwan/praktikum6/blob/master/Flowchart1.png)
 
 **Screenshoot**
 ![Screenshoot](https://raw.githubusercontent.com/tedyajadeh/praktikum6/master/Screenshot1.png)
