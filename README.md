@@ -49,16 +49,16 @@ return a-b;
 
 
 **Flowchart Program**
-![Flowchart21](https://raw.githubusercontent.com/tedyajadeh/praktikum6/master/Flowchart21.png)
+![Flowchart21](https://github.com/fawwazdzakwan/praktikum6/blob/master/Flowchart21.png)
 
 **Flowchart Program**
-![Flowchart22](https://raw.githubusercontent.com/tedyajadeh/praktikum6/master/Flowchart22.png)
+![Flowchart22](https://github.com/fawwazdzakwan/praktikum6/blob/master/Flowchart22.png)
 
 **Screenshoot**
-![Screenshoot21](https://raw.githubusercontent.com/tedyajadeh/praktikum6/master/Screenshoot21.png)
+![Screenshoot21](https://github.com/fawwazdzakwan/praktikum6/blob/master/Screenshoot21.png)
 
 **Screenshoot**
-![Screenshoot22](https://raw.githubusercontent.com/tedyajadeh/praktikum6/master/Screnshoot22.png)
+![Screenshoot22](https://github.com/fawwazdzakwan/praktikum6/blob/master/Screnshoot22.png)
 
 **code program lengkap**
 '''c++
